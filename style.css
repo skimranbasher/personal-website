@@ -1,0 +1,95 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+}
+h3{
+    font-size: 30px;
+}
+span{
+    font-size: 50px;
+    color: rgb(236, 76, 122);
+    font-weight:1000;
+}
+.half-width1{
+    width: 40%;
+    float: left;
+    margin: 0% 0% 5% 12%;
+    padding: 13% 0%;
+}
+.half-width2{
+    width: 40%;
+    float: left;
+    margin: 5% 5% 5% 0%;
+}
+.half-width3{
+    width: 35%;
+    float: left;
+    padding: 25% 5% 5% 5%;
+}
+img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url(images/header-bg.png);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.link-button{
+    background-color:rgb(236, 76, 122);
+    text-decoration:none;
+    color: white;
+    padding:10px 30px;
+    border-radius: 5px
+}
+.padding{
+    padding-bottom:2%;
+}
+.go{
+    font-size: 15px ;
+}
+.half-width4{
+    width: 40%;
+    float: left;
+    margin: 0% 5% 5% 8%;
+    padding: 10% 0% 0% 0%;
+    
+}
+.middle-banner{
+    background-image: url(images/biography-bg.png);
+    height: 950px;
+}
+.middle{
+    text-align: center;
+    margin: 5%;
+}
+.float-image{
+    width: 25%;
+    float: left;
+}
+
+.latest-work-banner{
+    background-image: url(images/latest-work-bg.png);
+    height: 520px;
+}
+
+#image1{
+    margin: 0% 1% 0% 10% ;
+}
+#image2{
+    margin: 0% 1% 0% 1% ;
+}
+#image3{
+    margin: 0% 0% 0% 1% ;
+}
+
+.footer-banner{
+    background-image: url(images/footer-bg.png);
+    height: 650px;
+    border: 2px solid red;
+}
+
+h5{
+    text-align: center;
+}
